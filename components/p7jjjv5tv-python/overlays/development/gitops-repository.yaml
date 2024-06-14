@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: p7jjjv5tv-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/p7jjjv5tv-python-gitops
